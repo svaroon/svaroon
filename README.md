@@ -10,6 +10,9 @@
 - In the final semester of MBA business analytics. and up-to-date with industry trends, technologies and best practices.
 - 3 more years (2015-18) of Experience (12+3) in Freelance Independent consulting on Digital Transformation, Digital marketing & Analytics
 
+## Certifications 
+[![Meta Generalist Software Engineer Certificate](https://github.com/ichibytes/Ichibytes/assets/74495493/2fae5296-fbab-4b51-93a1-418f4fb79cee)](https://www.credly.com/badges/196989e7-ad58-4350-94ac-b966a140ead9/public_url) \n
+
 
 ## Get in Touch
 
