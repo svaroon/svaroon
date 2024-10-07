@@ -1,4 +1,12 @@
-## Hi there 👋
+## About Me 👋
+
+- 12 years in QA Projects management, Scrum master, and SDET automation.
+- Proficiency in managing and governing projects with niche business and workflow, Realtime data processing and distributed architectures
+- Expertise in agile methodologies, conceptualizing & implementing solutions, developing test automation frameworks with CI-CD,
+- Built and managed cross functional teams, leading scrum ceremonies to ensure timely, within-scope, and budget-compliant deliveries
+- Managing scope, stakeholders’ communication, estimation, entry and exit criteria, change, resources, risks and optimization
+- In the final semester of MBA business analytics. and up-to-date with industry trends, technologies and best practices.
+- 3 more years (2015-18) of Experience (12+3) in Freelance Independent consulting on Digital Transformation, Digital marketing & Analytics
 
 <!--
 **svaroon/svaroon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
