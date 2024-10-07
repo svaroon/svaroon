@@ -8,6 +8,16 @@
 - In the final semester of MBA business analytics. and up-to-date with industry trends, technologies and best practices.
 - 3 more years (2015-18) of Experience (12+3) in Freelance Independent consulting on Digital Transformation, Digital marketing & Analytics
 
+
+![](https://komarev.com/ghpvc/?username=svaroon)
+
+## Get in Touch
+
+Feel free to reach out to me for collaborations or discussions:
+
+- Email: [email@svaroon.com](mailto:email@svaroon.com)
+- LinkedIn: [Arun Vaithiyanathan](https://www.linkedin.com/in/svaroon/)
+
 <!--
 **svaroon/svaroon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
